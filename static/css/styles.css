@@ -1,0 +1,12 @@
+body {
+  background-color: #f2f2f2 !important;
+}
+
+.container {
+  background-color: #e6e6e6;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+
